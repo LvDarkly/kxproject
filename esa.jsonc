@@ -1,8 +1,7 @@
 {
   "name": "kxproject",
-  "entry": "./index.html",
   "installCommand": "npm install",
-  "buildCommand": "npm run build",
+  "buildCommand": "",
   "assets": {
     "directory": "./",
     "notFoundStrategy": "singlePageApplication"
