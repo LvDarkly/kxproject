@@ -1,9 +1,8 @@
 {
-  "name": "kxproject",
+  "name": "vite-vue-template",
   "installCommand": "npm install",
-  "buildCommand": "",
   "assets": {
-    "directory": "./",
+    "directory": "./dist",
     "notFoundStrategy": "singlePageApplication"
   }
 }
